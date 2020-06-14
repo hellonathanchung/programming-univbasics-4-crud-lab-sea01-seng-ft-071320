@@ -1,3 +1,5 @@
+array = ["wow", "I", "am", "really", "learning"]
+
 def create_an_empty_array
   []
 end
@@ -12,7 +14,7 @@ array.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
-  aray = []
+  array = []
   array.unshift("Hey)")
   
 end
