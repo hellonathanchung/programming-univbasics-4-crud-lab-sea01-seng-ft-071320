@@ -40,5 +40,4 @@ end
 
 def update_element_from_index(array, index_number, element)
   array[2] "yes"
-
 end
